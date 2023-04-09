@@ -1,0 +1,48 @@
+{
+  "name": "psst54-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/plugin-transform-runtime": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.5",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "file-loader": "^6.2.0",
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "react-markdown-loader": "^1.1.14",
+    "remark-html": "^15.0.1",
+    "remark-loader": "^4.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.78.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0"
+  },
+  "dependencies": {
+    "process": "^0.11.10",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-error-overlay": "^6.0.11",
+    "react-ga4": "^1.4.1",
+    "react-icons": "^4.3.1",
+    "react-is": "^18.1.0",
+    "react-markdown": "^8.0.3",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^2.1.3",
+    "react-syntax-highlighter": "^15.5.0",
+    "remark-gfm": "^3.0.1",
+    "styled-components": "^5.3.5"
+  },
+  "homepage": "https://psst54-main-open.pages.dev"
+}
