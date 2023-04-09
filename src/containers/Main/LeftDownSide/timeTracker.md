@@ -1,4 +1,5 @@
 텐미닛 플래너 구현 [데모](https://time-tracker-open.pages.dev/)
+[code](https://github.com/psst54/time_tracker_open)
 
 - /tasks 페이지에서 일정 추가/수정/삭제 가능
 - /categories 페이지에서 카테고리 추가/수정/삭제 가능
