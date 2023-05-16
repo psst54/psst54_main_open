@@ -1,4 +1,4 @@
-2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2020 Winter)
+2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2021 Winter)
 
 - 6th place (Team app, [Scoreboard](https://www.acmicpc.net/contest/spotboard/586))
 

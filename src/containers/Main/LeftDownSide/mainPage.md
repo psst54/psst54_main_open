@@ -5,7 +5,7 @@
 
 &nbsp;
 
-![예시 이미지1](https://file.notion.so/f/s/24702db7-ba1b-4122-8e56-6bf412d7150a/main1.png?id=f0d907e7-f198-49f0-8bc3-8ca137921076&table=block&spaceId=1f89688f-6cbc-41e0-93da-fd91d40473fa&expirationTimestamp=1681160941933&signature=jzj7BtxVklzG7904pPMIrWkSe5KQsfFor5yRb7ymZp4&downloadName=main1.png)
+![예시 이미지1](/img/main1.png)
 
 &nbsp;
 

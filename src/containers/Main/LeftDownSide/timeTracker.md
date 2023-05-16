@@ -8,7 +8,7 @@
 
 &nbsp;
 
-![예시 이미지](https://file.notion.so/f/s/5a65243f-5245-44e6-a34f-c3d713e434ab/timeTracker1.png?id=34cf71fc-e35b-47f6-ba2f-f84e91084a61&table=block&spaceId=1f89688f-6cbc-41e0-93da-fd91d40473fa&expirationTimestamp=1681160746782&signature=QeBVVaLBvNg1tWw44OpMnC4mkWWAi7KIw40i5hywew4&downloadName=timeTracker1.png)
+![예시 이미지](/img/timeTracker1.png)
 
 &nbsp;
 

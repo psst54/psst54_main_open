@@ -103,8 +103,8 @@ const MarkDownViewer = ({ file }) => {
           },
           img({ node, children, ...props }) {
             return (
-              <a href={props.src} target="_blank">
-                <Img src={props.src} {...props}>
+              <a href={window.location.origin + props.src} target="_blank">
+                <Img src={window.location.origin + props.src} alt={props.alt}>
                   {children}
                 </Img>
               </a>

@@ -1,6 +1,7 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const webpack = require("webpack");
+const CopyPlugin = require("copy-webpack-plugin");
 
 const port = process.env.PORT || 3000;
 
@@ -12,6 +13,7 @@ module.exports = {
   output: {
     filename: "bundle.js",
     path: path.resolve(__dirname + "/build"),
+    publicPath: "/",
   },
 
   devServer: {
@@ -87,6 +89,11 @@ module.exports = {
     }),
     new HtmlWebpackPlugin({
       template: "./public/index.html",
+    }),
+    new CopyPlugin({
+      patterns: [
+        { from: "./public/img", to: "img" }, //to the dist root directory
+      ],
     }),
   ],
 };
