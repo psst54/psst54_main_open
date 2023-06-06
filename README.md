@@ -2,6 +2,7 @@
 
 ## ✨ Introduction
 파일탐색기 모티브의 자기 소개 페이지
+![main1](https://github.com/psst54/psst54_main_open/assets/63946327/c7e2055a-61aa-47e6-ac19-ff10ddb596dc)
 
 ## 🔗 Links
 - [페이지 주소 (up to date)](https://psst54.me/)
